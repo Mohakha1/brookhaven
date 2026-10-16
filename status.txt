@@ -1,0 +1,4 @@
+status=ok
+version=9262e725e1c5e8a59efe36ce75c334c2416dfca8
+
+message=السكربت تحت الصيانة حاليًا، حاول لاحقًا ❤️
